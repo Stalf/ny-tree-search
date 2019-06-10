@@ -1,0 +1,4 @@
+logging.level:
+    com.holidu: DEBUG
+
+source.endpoint: https://data.cityofnewyork.us/resource/nwxe-4ae8.json
